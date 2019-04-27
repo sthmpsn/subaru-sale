@@ -24,7 +24,7 @@ html {
     font-size: 1.3rem;
 }
 
-#sec-about > div > div > p > a, #sec-contact > div > div > h3 > a {
+#sec-about > div > div > p > a, #sec-contact > div > div > h3 > a, #sec-contact > div > div > h2 > a {
     text-decoration: none;
     color: #34cec6;
 }
