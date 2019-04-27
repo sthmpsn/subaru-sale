@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .jumbotron {
     background-color: #8b2e34;
 }
@@ -9,4 +13,18 @@
 
 .carousel-img {
     height: 75vh;
+}
+
+.loc-imgs {
+    max-height: 480px;
+}
+
+#sec-about, #sec-contact {
+    background-color: #8b2e34;
+    font-size: 1.3rem;
+}
+
+#sec-about > div > div > p > a, #sec-contact > div > div > h3 > a {
+    text-decoration: none;
+    color: #34cec6;
 }
